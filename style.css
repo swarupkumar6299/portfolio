@@ -133,6 +133,19 @@
 }
 #form-check input{
     width: 24px;
-    margin: 3px 0;
+    margin: 3px 0;    
+}
+.blogitem {
+    margin: 20px;
+    font-family: "Poppins", sans-serif;
     
+}
+.blogcontainer h1{
+    font-family: "Poppins", sans-serif;
+    margin: 23px;
+
+
+}
+.blogitem p{
+    font-family: "Poppins", sans-serif;
 }
