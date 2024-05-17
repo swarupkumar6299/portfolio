@@ -1,0 +1,117 @@
+@media (max-width:767.97px) {
+    .banner-heading h1 {
+        font-size: 36px;
+    }
+
+    .navbar-brand h5 {
+        font-size: 16px;
+    }
+
+    .iam h2 {
+        font-size: 16px;
+    }
+
+    .Type-text {
+        font-size: 16px;
+    }
+
+    .animated-text {
+        gap: 8px;
+    }
+
+    section {
+        padding: 50px 0px;
+    }
+
+    .main-banner {
+        padding: 100px 0px 0px 0px;
+    }
+
+    .banner-heading p {
+        font-size: 16px;
+    }
+
+    .About-details h2 {
+        font-size: 28px;
+    }
+
+    .about-image img {
+        height: 220px;
+        margin-bottom: 28px;
+    }
+
+    .About-details {
+        text-align: center;
+    }
+
+    .About-details p {
+        font-size: 16px;
+    }
+
+    .project-heading {
+        font-size: 28px;
+    }
+
+    .Skills h2 {
+        font-size: 28px;
+    }
+
+    .contact-heading h2 {
+        font-size: 28px;
+    }
+
+    .social-icon {
+        font-size: 18px;
+    }
+
+    .social-icon {
+        padding: 11px 6px;
+    }
+
+    .create-by h6 {
+        font-size: 12px;
+    }
+
+    .button.active.focus,
+    .button.active:focus,
+    .button.focus,
+    .button:active.focus,
+    .button:active:focus,
+    .button:focus {
+        outline: none;
+        box-shadow: 0px;
+    }
+
+    .personal-details ul {
+        text-align: left;
+        margin: 0px 42px;
+    }
+
+    .social-account {
+        width: 24% !important;
+        padding: 15px 15px 0px 0px;
+    }
+
+    .social-account ul li a {
+        line-height: 3.5;
+    }
+
+    .navbar-toggler-icon {
+        color: #ffff;
+        font-size: 34px;
+        margin-top: 6px;
+    }
+
+
+
+}
+
+@media(max-width:1024px) {
+    .social-account {
+        width: 12%;
+    }
+
+    .navbar-toggler-icon {
+        color: #ffff;
+    }
+}
